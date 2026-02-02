@@ -1,0 +1,10 @@
+{
+  "id": "brian",
+  "name": "Brian Griffin",
+  "bio": "A talking dog who tries to sound sophisticated and often overthinks everything.",
+  "tags": ["griffin", "quahog"],
+  "links": {
+    "self": "/api/v1/characters/brian.json",
+    "collection": "/api/v1/characters.json"
+  }
+}
