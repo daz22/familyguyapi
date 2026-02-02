@@ -1,0 +1,10 @@
+{
+  "id": "peter",
+  "name": "Peter Griffin",
+  "bio": "A loud, impulsive dad who causes problems and then improvises solutions.",
+  "tags": ["griffin", "quahog"],
+  "links": {
+    "self": "/api/v1/characters/peter.json",
+    "collection": "/api/v1/characters.json"
+  }
+}
