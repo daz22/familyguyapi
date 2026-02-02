@@ -1,0 +1,5 @@
+[
+  { "id": "q1", "characterId": "peter", "text": "I had a plan. Then I started talking." },
+  { "id": "q2", "characterId": "stewie", "text": "I will tolerate this for exactly five seconds." },
+  { "id": "q3", "characterId": "brian", "text": "I can explain this. I just do not want to." }
+]
