@@ -1,0 +1,10 @@
+{
+  "id": "lois",
+  "name": "Lois Griffin",
+  "bio": "The steady parent who keeps the household moving when everything goes sideways.",
+  "tags": ["griffin", "quahog"],
+  "links": {
+    "self": "/api/v1/characters/lois.json",
+    "collection": "/api/v1/characters.json"
+  }
+}
