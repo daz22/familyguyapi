@@ -1,0 +1,10 @@
+{
+  "id": "stewie",
+  "name": "Stewie Griffin",
+  "bio": "A clever baby with big plans, sharp opinions, and zero patience.",
+  "tags": ["griffin", "quahog"],
+  "links": {
+    "self": "/api/v1/characters/stewie.json",
+    "collection": "/api/v1/characters.json"
+  }
+}
