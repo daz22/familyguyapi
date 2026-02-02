@@ -1,0 +1,26 @@
+[
+  {
+    "id": "peter",
+    "name": "Peter Griffin",
+    "href": "/api/v1/characters/peter.json",
+    "image": "/api/v1/assets/peter.png"
+  },
+  {
+    "id": "lois",
+    "name": "Lois Griffin",
+    "href": "/api/v1/characters/lois.json",
+    "image": "/api/v1/assets/lois.png"
+  },
+  {
+    "id": "stewie",
+    "name": "Stewie Griffin",
+    "href": "/api/v1/characters/stewie.json",
+    "image": "/api/v1/assets/stewie.png"
+  },
+  {
+    "id": "brian",
+    "name": "Brian Griffin",
+    "href": "/api/v1/characters/brian.json",
+    "image": "/api/v1/assets/brian.png"
+  }
+]
