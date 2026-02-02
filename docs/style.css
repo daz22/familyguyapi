@@ -1,0 +1,9 @@
+body { font-family: system-ui, Arial, sans-serif; margin: 0; padding: 0; background: #0b0f19; color: #e8eefc; }
+.wrap { max-width: 900px; margin: 0 auto; padding: 24px; }
+a { color: #9cc4ff; text-decoration: none; }
+a:hover { text-decoration: underline; }
+.card { background: #121a2a; border: 1px solid #22304c; border-radius: 12px; padding: 16px; margin: 16px 0; }
+.row { display: flex; gap: 12px; flex-wrap: wrap; }
+button { background: #1b2a46; border: 1px solid #2e4270; color: #e8eefc; padding: 10px 12px; border-radius: 10px; cursor: pointer; }
+button:hover { background: #223659; }
+.out { background: #0a1222; border: 1px solid #22304c; padding: 12px; border-radius: 12px; overflow: auto; min-height: 120px; }
