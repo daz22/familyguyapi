@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Family Guy API</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="wrap">
+      <h1>Family Guy API</h1>
+      <p>GET only. Static JSON hosted on GitHub Pages.</p>
+
+      <section class="card">
+        <h2>Endpoints</h2>
+        <ul>
+          <li><a id="charsUrl" href="#">GET /api/v1/characters.json</a></li>
+          <li><a id="quotesUrl" href="#">GET /api/v1/quotes.json</a></li>
+          <li><a id="episodesUrl" href="#">GET /api/v1/episodes.json</a></li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>Try it</h2>
+        <div class="row">
+          <button id="btnLoadChars">Load characters</button>
+          <button id="btnRandomQuote">Random quote</button>
+        </div>
+        <pre id="out" class="out"></pre>
+      </section>
+
+      <section class="card">
+        <h2>Character detail</h2>
+        <p>Click a character after loading the list.</p>
+        <ul id="charList"></ul>
+      </section>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
